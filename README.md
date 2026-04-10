@@ -1,4 +1,4 @@
-# jpa03-dev-anj
+# STARTER-jpa03
 Running at: <https://jpa03-dev-anj.dokku-08.cs.ucsb.edu/>
 
 # Configuring GitHub Pages for the documentation
