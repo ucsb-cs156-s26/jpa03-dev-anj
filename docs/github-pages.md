@@ -6,7 +6,7 @@ for the code on the Github Pages site associated with the repo.
 
 This file explains the necessary one-time setup steps to publish this documentation.
 
-After that, the scripts should keep it automatically up-to-date, but if you need to manually regenerate it, the information
+After that, the scripts should keep it automatically up-to-date, but if you need to manually regenerate it, the information 
 below explains how to do that.
 
 When you first pull from this repo into another one, you might get a red X on the Github actions that publish the Github pages site;
